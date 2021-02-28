@@ -48,7 +48,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```console
 # Clone este repositório
-$ git clone <https://github.com/arsmcosta/moveit-next>
+$ git clone https://github.com/arsmcosta/moveit-next
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd moveit-next
@@ -59,5 +59,5 @@ $ yarn install
 # Inicie o server
 $ yarn dev
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
