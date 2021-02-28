@@ -37,12 +37,16 @@
 - Yarn
 
 <h2 id="pre-requisitos">🔑 Pré-requisitos</h2>
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/getting-started). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: 
 
+[Git](https://git-scm.com/),
+[Node.js](https://nodejs.org/en/) e
+[Yarn](https://yarnpkg.com/getting-started).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 <h2 id="run">🏃 Rodando o projeto em sua máquina</h2>
-```bash
+
+
+```console
 # Clone este repositório
 $ git clone <https://github.com/arsmcosta/moveit-next>
 
