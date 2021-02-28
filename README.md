@@ -27,7 +27,7 @@
 
 <h2 id="sobre">🍅 Sobre</h2>
 
-<p align="center">Esta aplicação temo como finalidade ajudar o usuário com o controle de tempo e produtividade, e para isso faz uso da técnica pomodoro, onde intercalam-se momentos de concentração total e breves pausas para realizar pequenos exercícios.</p>
+<p align="center">Esta aplicação tem como finalidade ajudar o usuário com o controle de tempo e produtividade, e para isso faz uso da técnica pomodoro, onde intercalam-se momentos de concentração total e breves pausas para realizar pequenos exercícios.</p>
 
 <h2 id="tecnologias">👨‍💻 Tecnologias Utilizadas</h2>
 
